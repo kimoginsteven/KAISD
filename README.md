@@ -16,7 +16,7 @@ KAISD_final_with_modifications also contains code for visaulizing CNN filters an
 
 ## Pretrained Models
 
-The pretrained models can be found in the "models" folder. The pretrained models for conv_original, pretrained_original, and inception_5 can be found in "models/without_modifiction" while pretraiend models for all other models can be found in "models/with_modification".
+The pretrained models can be found in the "models" folder. The pretrained models for conv_original, pretrained_original, and inception_5 can be found in "models/without_modification" while pretraiend models for all other models can be found in "models/with_modification".
 
 ## Link to Google Drive
 
