@@ -14,9 +14,7 @@ The code for preprocessing (splitting audio files into 8 second segments and con
 The code for training and evaluation is split into two files [KAISD_final.ipynb](./KAISD_final.ipynb) and [KAISD_final_with_modifications.ipynb](./KAISD_final_with_modifications.ipynb). 
 
 KAISD_final contains code for conv_original, pretrained_original, and inception_5.
-
 KAISD_final_with_modifications contains code for all other models.
-
 KAISD_final_with_modifications also contains code for visaulizing CNN filters and intermediate layers.
 
 ## Pretrained Models
