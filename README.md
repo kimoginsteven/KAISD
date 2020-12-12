@@ -5,7 +5,7 @@ This project was done for 2020 Fall KAIST CS470 course and was done by Team 9 (S
 ## Dataset and Preprocessing
 
 All the audio files for our collected data is in "CS group project wav recordings" folder.
-The code for preprocessing (splitting audio files into 8 second segments and converting audio files to mel spectrograms) is in data_preprocessing.ipynb.
+The code for preprocessing (splitting audio files into 8 second segments and converting audio files to mel spectrograms) is in [data_preprocessing.ipynb](./data_preprocessing.ipynb).
 
 ## Code for Training and Evaluation
 
