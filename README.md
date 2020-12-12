@@ -17,6 +17,8 @@ KAISD_final contains code for conv_original, pretrained_original, and inception_
 KAISD_final_with_modifications contains code for all other models.
 KAISD_final_with_modifications also contains code for visaulizing CNN filters and intermediate layers.
 
+> Due to the shuffle option in Data_Loader (we saved the data_loader with shuffle=True), the evaluation result may vary from run to run.
+
 ## Pretrained Models
 
 The pretrained models can be found in the "models" folder. The pretrained models for conv_original, pretrained_original, and inception_5 can be found in "models/without_modification" while pretrained models for all other models can be found in models/with_modification.
