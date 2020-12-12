@@ -26,4 +26,4 @@ https://drive.google.com/drive/folders/1e2BpwiHKOx6Zr9nq5CSd0H7dWHD9kX6J?usp=sha
 
 ### Instructions for running our code
 
-Please add a link to the given google drive folder in your Google Drive and change the root variable at the beginning of every .ipynb file to the address of the folder. 
+Please add a link to the given google drive folder in your Google Drive by clicking the upside-down triangle icon next to "root_for submission" and "Add Shortcut to Drive". Also, you should change the root variable at the beginning of every .ipynb file so that the root variable is the address of the "root_for_submission" in your Google Drive.  
