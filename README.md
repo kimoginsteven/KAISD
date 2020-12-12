@@ -20,7 +20,7 @@ The pretrained models can be found in the "models" folder. The pretrained models
 
 ## Link to Google Drive
 
-Only codes (.ipynb files) are uploaded in this Github repository. To access pretrained models and other files necessary to run this code, please go to our google drive provided below.
+Only codes (.ipynb files) and audio files labels (.csv files) are uploaded in this Github repository. To access pretrained models and other files necessary to run this code, please go to our google drive provided below.
 
 https://drive.google.com/drive/folders/1e2BpwiHKOx6Zr9nq5CSd0H7dWHD9kX6J?usp=sharing
 
