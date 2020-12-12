@@ -17,7 +17,7 @@ KAISD_final contains code for conv_original, pretrained_original, and inception_
 KAISD_final_with_modifications contains code for all other models.
 KAISD_final_with_modifications also contains code for visaulizing CNN filters and intermediate layers.
 
-> Due to the shuffle option in DataLoader (we saved the DataLoader with shuffle=True), the evaluation result may vary from run to run.
+> Due to the shuffle option in DataLoader (we saved the DataLoader with shuffle=True), the evaluation result using validation set may vary from run to run. Also, since we use two randomly initialized FC layers for Baseline model, the evaluation result for baseline model using held out data also may vary form run to run. However, the changes should be within a small margin.
 
 ## Pretrained Models
 
