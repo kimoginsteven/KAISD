@@ -9,18 +9,18 @@ The code for preprocessing (splitting audio files into 8 second segments and con
 
 ## Code for Training and Evaluation
 
-The code for training and evaluation is split into two files KAISD_final.ipynb and KAIS_final_with_modifications.ipynb.
+The code for training and evaluation is split into two files KAISD_final.ipynb and KAISD_final_with_modifications.ipynb.
 KAISD_final contains code for conv_original, pretrained_original, and inception_5.
 KAISD_final_with_modifications contains code for all other models.
-KAISD_final_with_modifications also contains code for visaulizing CNN filters and intermediates layers.
+KAISD_final_with_modifications also contains code for visaulizing CNN filters and intermediate layers.
 
 ## Pretrained Models
 
-The pretrained models can be found in the "models" folder. The pretrained models for conv_original, pretrained_original, and inception_5 can be found in "models/without_modification" while pretraiend models for all other models can be found in "models/with_modification".
+The pretrained models can be found in the "models" folder. The pretrained models for conv_original, pretrained_original, and inception_5 can be found in "models/without_modification" while pretrained models for all other models can be found in "models/with_modification".
 
 ## Link to Google Drive
 
-Only codes (.ipynb files) and audio files labels (.csv files) are uploaded in this Github repository. To access pretrained models and other files necessary to run this code, please go to our google drive provided below.
+Only codes (.ipynb files) and audio file labels (.csv files) are uploaded in this Github repository. To access pretrained models and other files necessary to run this code, please go to our google drive provided below.
 
 https://drive.google.com/drive/folders/1e2BpwiHKOx6Zr9nq5CSd0H7dWHD9kX6J?usp=sharing
 
