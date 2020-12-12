@@ -1,17 +1,22 @@
 # KAISD
 This repository contains the dataset, code, and pretrained models for **KAISD (Korean language Alcohol Intoxicated Speech Detector)**.
+
 This project was done for 2020 Fall KAIST CS470 course and was done by Team 9 (SeokJun Kim, Jeongeon Park, and Sujin Han).
 
 ## Dataset and Preprocessing
 
 All the audio files for our collected data is in "CS group project wav recordings" folder.
+
 The code for preprocessing (splitting audio files into 8 second segments and converting audio files to mel spectrograms) is in [data_preprocessing.ipynb](./data_preprocessing.ipynb).
 
 ## Code for Training and Evaluation
 
-The code for training and evaluation is split into two files [KAISD_final.ipynb](./KAISD_final.ipynb) and [KAISD_final_with_modifications.ipynb](./KAISD_final_with_modifications.ipynb).
+The code for training and evaluation is split into two files [KAISD_final.ipynb](./KAISD_final.ipynb) and [KAISD_final_with_modifications.ipynb](./KAISD_final_with_modifications.ipynb). 
+
 KAISD_final contains code for conv_original, pretrained_original, and inception_5.
+
 KAISD_final_with_modifications contains code for all other models.
+
 KAISD_final_with_modifications also contains code for visaulizing CNN filters and intermediate layers.
 
 ## Pretrained Models
